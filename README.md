@@ -22,4 +22,6 @@ This repository includes materials on:
     - Frequency and Measures (Alura): https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas
     - Probabilty and Sampling (Alura): https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem
     - Hypothesis Testing (Alura): https://cursos.alura.com.br/course/estatistica-testes-hipotestes
+    - Correlation and Regression (Alura): https://cursos.alura.com.br/course/estatistica-correlacao-regressao
+    
     
