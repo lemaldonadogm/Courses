@@ -4,7 +4,7 @@ This repository documents the courses, exercises, and study materials I'm using 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The goal of this repository is to:
 
@@ -14,7 +14,7 @@ The goal of this repository is to:
 - Showcase my continuous learning journey  
 
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 This repository includes materials on:
 
