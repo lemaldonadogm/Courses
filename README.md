@@ -18,10 +18,14 @@ The goal of this repository is to:
 
 This repository includes materials on:
 
-- Statistics with Python
-    - Frequency and Measures (Alura): https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas
-    - Probabilty and Sampling (Alura): https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem
-    - Hypothesis Testing (Alura): https://cursos.alura.com.br/course/estatistica-testes-hipotestes
-    - Correlation and Regression (Alura): https://cursos.alura.com.br/course/estatistica-correlacao-regressao
+- Statistics with Python (Alura)
+    - Frequency and Measures: https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas
+    - Probabilty and Sampling: https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem
+    - Hypothesis Testing: https://cursos.alura.com.br/course/estatistica-testes-hipotestes
+    - Correlation and Regression: https://cursos.alura.com.br/course/estatistica-correlacao-regressao
+    - Linear regression, testing relationships and predicting outcomes: https://cursos.alura.com.br/course/data-science-modelo-regressao-linear
+    - Linear regression, advanced modeling techniques: https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel
+
+
     
     
