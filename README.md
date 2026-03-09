@@ -22,10 +22,13 @@ This repository includes materials on:
     - Frequency and Measures: https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas
     - Probabilty and Sampling: https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem
     - Hypothesis Testing: https://cursos.alura.com.br/course/estatistica-testes-hipotestes
+    - Statistical Tests: https://cursos.alura.com.br/course data-science-introducao-a-testes-estatisticos-com-python
     - Correlation and Regression: https://cursos.alura.com.br/course/estatistica-correlacao-regressao
     - Linear regression, testing relationships and predicting outcomes: https://cursos.alura.com.br/course/data-science-modelo-regressao-linear
     - Linear regression, advanced modeling techniques: https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel
 
+- Time Series 
+    - Time Series Forecasting: https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais
 
     
     
